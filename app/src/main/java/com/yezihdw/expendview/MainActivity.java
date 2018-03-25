@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements ExpandableListVie
         groupModel5.setType(TYPE_EDITTEXT);
         groupModels.add(groupModel5);
 
+
     }
 
     private List<ChildModel> getChildModelList(int length) {
